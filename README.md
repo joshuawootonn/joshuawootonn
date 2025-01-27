@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi. I'm [@joshwootonn](https://x.com/JoshWootonn), a design engineer @ [makeswift](https://makeswift.com). I am a building of pretty things.
+
+Last year I created a website for typing through the Bible called [Type the Word](https://typetheword.site). (120k verses have been typed so far)
+
+This year I'm working on a pixel art editor called [42colors](https://42colors.com), and along the way I'm learning about elixir, protobufs, and postgis. 
+
+I have also written a fair amount on how to create beautiful react components that are both animated and accessible on [my blog](https://joshuawootonn.com).
 
 <!--
 **joshuawootonn/joshuawootonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

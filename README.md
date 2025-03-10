@@ -1,8 +1,8 @@
-I'm [@joshwootonn](https://x.com/JoshWootonn), a design engineer @ [makeswift](https://makeswift.com). I like to build pretty things. 
+I'm [@joshwootonn](https://x.com/JoshWootonn), a design engineer @ [makeswift](https://makeswift.com). I like to build pretty things.
 
-Last year I created a website for typing through the Bible called [Type the Word](https://typetheword.site). (120k verses have been typed so far)
+Last year I created a website for typing through the Bible called [Type the Word](https://typetheword.site). (160k verses have been typed so far)
 
-This year I'm working on a pixel art editor called [42colors](https://42colors.com), and along the way I'm learning about elixir, protobufs, and postgis. 
+This year I'm working on a pixel art editor called [42colors](https://42colors.com), and along the way I'm learning about elixir, canvas, and postgis. 
 
 From time to time I write about creating beautiful react components that are both animated and accessible. You can find out more on [my blog](https://joshuawootonn.com).
 

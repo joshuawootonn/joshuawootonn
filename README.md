@@ -1,4 +1,4 @@
-I'm [@joshwootonn](https://x.com/JoshWootonn), a design engineer @ [makeswift](https://makeswift.com). I like to build pretty things.
+I'm [@joshwootonn](https://x.com/JoshWootonn), a product engineer @ [makeswift](https://makeswift.com). I like to build pretty things.
 
 Last year I created a website for typing through the Bible called [Type the Word](https://typetheword.site). (160k verses have been typed so far)
 

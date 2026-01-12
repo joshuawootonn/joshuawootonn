@@ -1,10 +1,10 @@
-I'm [@joshwootonn](https://x.com/JoshWootonn), a UI engineer @ [makeswift](https://makeswift.com). I like to build pretty things.
+I'm [@joshwootonn](https://x.com/JoshWootonn), a design engineer @ [braintrust](https://www.braintrust.dev/). I like to build pretty things.
 
-Last year I created a website for typing through the Bible called [Type the Word](https://typetheword.site). (160k verses have been typed so far)
+This year I'm focused on [Type the Word](https://typetheword.site), the #1 way to type through the Bible. I originally created this tool in 2023, and it's grown steadily since. This year I'm adding other translations and other languages, expanding the feature set, and integrating with Google classroom to monetize in the Christian school system.  
 
-This year I'm working on a pixel art editor called [42colors](https://42colors.com), and along the way I'm learning about elixir, canvas, and postgis. 
+Last year I built a pixel art editor called [42colors](https://42colors.com). It was a fun way to flex my ability and learn postgis / elixir. Planning to push this project more in summer of 2026. 
 
-From time to time I write about creating beautiful react components that are both animated and accessible. You can find out more on [my blog](https://joshuawootonn.com).
+I used to write about UI component patterns. You can find out more on [my blog](https://joshuawootonn.com).
 
 <!--
 **joshuawootonn/joshuawootonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

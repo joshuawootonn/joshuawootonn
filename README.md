@@ -1,6 +1,6 @@
 I'm [@joshwootonn](https://x.com/JoshWootonn), a design engineer @ [braintrust](https://www.braintrust.dev/). I like to build pretty things.
 
-This year I'm focused on [Type the Word](https://typetheword.site), the #1 way to type through the Bible. I originally created this tool in 2023, and it's grown steadily since. This year I'm adding other translations and other languages, expanding the feature set, and integrating with Google classroom to monetize in the Christian school system.  
+This year I'm focused on [Type the Word](https://typetheword.com), the #1 way to type through the Bible. I originally created this tool in 2023, and it's grown steadily since. This year I'm adding other translations and other languages, expanding the feature set, and integrating with Google classroom to monetize in the Christian school system.  
 
 Last year I built a pixel art editor called [42colors](https://42colors.com). It was a fun way to flex my ability and learn postgis / elixir. Planning to push this project more in summer of 2026. 
 
